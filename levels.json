@@ -1,0 +1,71 @@
+{
+  "currentVersion": 1,
+  "levels": [
+    {
+      "levelId": 1,
+      "difficulty": "Normal",
+      "initialArrowCount": 10,
+      "lives": 2,
+      "patternType": "grid_3x3",
+      "arrowsData": [
+        { "fromDot": 0, "toDot": 1, "direction": "right" },
+        { "fromDot": 1, "toDot": 2, "direction": "right" },
+        { "fromDot": 2, "toDot": 5, "direction": "down" },
+        { "fromDot": 3, "toDot": 4, "direction": "right" },
+        { "fromDot": 4, "toDot": 5, "direction": "right" },
+        { "fromDot": 6, "toDot": 7, "direction": "right" },
+        { "fromDot": 7, "toDot": 8, "direction": "right" },
+        { "fromDot": 0, "toDot": 3, "direction": "down" },
+        { "fromDot": 1, "toDot": 4, "direction": "down" },
+        { "fromDot": 3, "toDot": 6, "direction": "down" }
+      ],
+      "milestones": [25, 50, 75, 100]
+    },
+    {
+      "levelId": 2,
+      "difficulty": "Normal",
+      "initialArrowCount": 12,
+      "lives": 2,
+      "patternType": "grid_3x3",
+      "arrowsData": [
+        { "fromDot": 0, "toDot": 1, "direction": "right" },
+        { "fromDot": 1, "toDot": 2, "direction": "right" },
+        { "fromDot": 3, "toDot": 4, "direction": "right" },
+        { "fromDot": 4, "toDot": 5, "direction": "right" },
+        { "fromDot": 6, "toDot": 7, "direction": "right" },
+        { "fromDot": 7, "toDot": 8, "direction": "right" },
+        { "fromDot": 0, "toDot": 3, "direction": "down" },
+        { "fromDot": 1, "toDot": 4, "direction": "down" },
+        { "fromDot": 2, "toDot": 5, "direction": "down" },
+        { "fromDot": 3, "toDot": 6, "direction": "down" },
+        { "fromDot": 4, "toDot": 7, "direction": "down" },
+        { "fromDot": 5, "toDot": 8, "direction": "down" }
+      ],
+      "milestones": [25, 50, 75, 100]
+    },
+    {
+      "levelId": 3,
+      "difficulty": "Hard",
+      "initialArrowCount": 14,
+      "lives": 1,
+      "patternType": "grid_3x3",
+      "arrowsData": [
+        { "fromDot": 0, "toDot": 1, "direction": "right" },
+        { "fromDot": 1, "toDot": 2, "direction": "right" },
+        { "fromDot": 2, "toDot": 5, "direction": "down" },
+        { "fromDot": 3, "toDot": 4, "direction": "right" },
+        { "fromDot": 4, "toDot": 5, "direction": "right" },
+        { "fromDot": 5, "toDot": 8, "direction": "down" },
+        { "fromDot": 6, "toDot": 7, "direction": "right" },
+        { "fromDot": 7, "toDot": 8, "direction": "right" },
+        { "fromDot": 0, "toDot": 3, "direction": "down" },
+        { "fromDot": 1, "toDot": 4, "direction": "down" },
+        { "fromDot": 2, "toDot": 1, "direction": "left" },
+        { "fromDot": 3, "toDot": 6, "direction": "down" },
+        { "fromDot": 4, "toDot": 3, "direction": "left" },
+        { "fromDot": 5, "toDot": 4, "direction": "left" }
+      ],
+      "milestones": [25, 50, 75, 100]
+    }
+  ]
+}
