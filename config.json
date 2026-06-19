@@ -1,0 +1,16 @@
+{
+  "adsEnabled": false,
+  "bannerAdUnitId": "",
+  "interstitialAdUnitId": "",
+  "rewardedAdUnitId": "",
+  "hintRewardedAdUnitId": "",
+  "defaultLives": 2,
+  "soundEnabled": true,
+  "vibrationEnabled": true,
+  "autoLockScreen": false,
+  "darkMode": false,
+  "helpPageUrl": "https://yourdomain.com/help.html",
+  "aboutPageUrl": "https://yourdomain.com/about.html",
+  "privacyRightsUrl": "https://yourdomain.com/privacy.html",
+  "privacyPreferencesUrl": "https://yourdomain.com/preferences.html"
+}
