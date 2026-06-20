@@ -1,0 +1,68 @@
+{
+  "currentVersion": 1,
+  "levels": [
+    {
+      "levelId": 1,
+      "engineType": "zen_path",
+      "difficulty": "Easy",
+      "gridSize": 4,
+      "dots": [
+        {"id":1, "row":0, "col":0},
+        {"id":2, "row":0, "col":3},
+        {"id":3, "row":3, "col":3},
+        {"id":4, "row":3, "col":0}
+      ]
+    },
+    {
+      "levelId": 2,
+      "engineType": "zen_path",
+      "difficulty": "Easy",
+      "gridSize": 4,
+      "dots": [
+        {"id":1, "row":0, "col":0},
+        {"id":2, "row":0, "col":3},
+        {"id":3, "row":1, "col":1},
+        {"id":4, "row":3, "col":0}
+      ]
+    },
+    {
+      "levelId": 3,
+      "engineType": "zen_path",
+      "difficulty": "Normal",
+      "gridSize": 5,
+      "dots": [
+        {"id":1, "row":0, "col":0},
+        {"id":2, "row":0, "col":4},
+        {"id":3, "row":4, "col":4},
+        {"id":4, "row":4, "col":0},
+        {"id":5, "row":2, "col":2}
+      ]
+    },
+    {
+      "levelId": 4,
+      "engineType": "zen_path",
+      "difficulty": "Normal",
+      "gridSize": 5,
+      "dots": [
+        {"id":1, "row":0, "col":0},
+        {"id":2, "row":0, "col":4},
+        {"id":3, "row":2, "col":2},
+        {"id":4, "row":4, "col":0},
+        {"id":5, "row":4, "col":4}
+      ]
+    },
+    {
+      "levelId": 5,
+      "engineType": "zen_path",
+      "difficulty": "Hard",
+      "gridSize": 5,
+      "dots": [
+        {"id":1, "row":0, "col":0},
+        {"id":2, "row":0, "col":3},
+        {"id":3, "row":2, "col":4},
+        {"id":4, "row":4, "col":1},
+        {"id":5, "row":3, "col":0}
+      ]
+    }
+  ]
+}
